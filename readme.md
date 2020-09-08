@@ -10,7 +10,7 @@ This is a very short guide to get started.
 Use following commands to analyis your project:
 
 ```
-dotnet-sonarscanner begin /k:"project-key" /
+dotnet-sonarscanner begin /k:"project-key" 
 ```
 
 This will basically make sonarscanner attach itself to the roslyn complier and monitors for any compiles.
