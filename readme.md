@@ -1,4 +1,4 @@
-# sonarqube-reproduction
+# sonarqube-example
 
 Playing around with SonarQube is fun.
 
